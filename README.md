@@ -7,4 +7,5 @@ LinkedIn: https://www.linkedin.com/in/anujin-munkhbayar-754980179/\
 2. [Decision Support Dashboard for Study Abroad Selection](https://github.com/anujn9989/Decision-Support-Dashboard-for-Stud_Abroad_Selection)
 3. [Exploring the Impact of Psychological Factors on Obesity](https://github.com/anujn9989/Exploring-the-Impact-of-Psychological-Factors-on-Obesity)
 4. [Predicting house prices given the presence and extent of a variety of common household features](https://github.com/anujn9989/house_price_ny)
+5. [Predictive Modeling for Life Expectancy](https://github.com/anujn9989/Predictive-Modeling-for-Life-Expectancy)
 
